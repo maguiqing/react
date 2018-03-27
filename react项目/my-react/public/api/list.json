@@ -1,0 +1,24 @@
+{
+	"ret":true,
+	"data":{
+       "list":[{"id":"001","title":"2014年最新大家说英语学习资料"},
+       {"id":"002","title":"大家说英语 ：20110228 Mp3在线课程"},
+       {"id":"003","title":"大家说英语 ：20110227 复习课程"},
+       {"id":"004","title":"大家说英语 ：20110226 Living a Healthy Life"},
+       {"id":"005","title":"大家说英语 ：20110225 Living a Healthy Life"},
+       {"id":"006","title":"大家说英语 ：20110224 What Do Yo Like"},
+       {"id":"007","title":"大家说英语 ：20110223 What Do Yo Like"},
+       {"id":"008","title":"大家说英语 ：20110222 每周复习"},
+       {"id":"009","title":"大家说英语 ：20110221 复习课程"},
+       {"id":"010","title":"大家说英语 ：20110220 Thank you"},
+       {"id":"011","title":"大家说英语 ：20110219 Good Manners"},
+       {"id":"012","title":"大家说英语 ：20110218 Don't Do That"},
+       {"id":"013","title":"大家说英语 ：20110217 Living a Healthy Life"},
+       {"id":"014","title":"大家说英语 ：20110216 Living a Healthy Life"},
+       {"id":"015","title":"大家说英语 ：20110215 Living a Healthy Life"},
+       {"id":"016","title":"大家说英语 ：20110214 Living a Healthy Life"}],
+       "imgUrl":[{"id": "01","url":"http://www.easyvoa.com/templets/images/studioclassroom/lt_cover1.jpg"},
+                {"id": "02","url":"http://www.easyvoa.com/templets/images/studioclassroom/lt_cover2.jpg"},
+                {"id": "03","url":"http://www.easyvoa.com/templets/images/studioclassroom/lt_cover3.jpg"}]
+	}
+}

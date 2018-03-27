@@ -1,0 +1,8 @@
+export const CHANGE_LIST = 'header/CHANGE_LIST'
+export const OPEN_MODEL = 'header/OPEN_MODEL'
+export const HIDE_MODEL = 'header/HIDE_MODEL'
+export const LOGIN = 'header/LOGIN'
+export const LOGOUT = 'header/LOGOUT'
+export const GETLISTN = 'header/GETLISTN'
+export const GETLISTS = 'header/GETLISTS'
+export const GETLISTT = 'header/GETLISTT'

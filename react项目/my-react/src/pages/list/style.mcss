@@ -1,0 +1,75 @@
+.box{
+	width: 1024px;
+    margin: 0 auto;
+    background: #fff;
+    font-family: microsoft yahei;
+}
+.listLeft{
+	margin: 30px 10px 10px 10px;
+    position: relative;
+    width: 660px;
+    float: left;
+    border: 3px solid #ec0012;
+    border-radius: 20px;
+}
+.listLeft h2{
+    font-size: 20px;
+    margin: 10px 30px 0 30px;
+    padding: 0 0 10px 0;
+    color: #333;
+    font-weight: 900;
+    border-bottom: 1px dotted #ccc;
+}
+.listLeft ul{
+	list-style-type: disc;
+    color: #cc0000;
+    margin: 5px 10px 10px 40px;   
+}
+.listLeft ul li{
+	font-size: 14px;
+    height: 30px;
+    cursor: pointer;
+}
+.listLeft ul li a{
+	color: #004190;
+    line-height: 30px;
+    text-decoration: none;
+}
+.listLeft ul li:first-child a{
+    color:red;
+}
+.listLeft ul li a:hover{
+	text-decoration: underline;
+}
+.listLeft .topImg{
+    position: absolute;
+    left: 20px;
+    top: -20px;
+}
+.listLeft .bottomImg{
+    margin: 55px 0 0 35px;
+}
+.listRight{
+	margin: 30px 10px 10px 0;
+    width: 300px;
+    float: right;
+    border: 3px solid #ec0012;
+    border-radius: 20px;
+}
+.listRight p{
+    font-size: 16px;
+    margin: 10px;
+}
+.listRight .center{
+    text-align: center;
+}
+.listRight .sameStyle{
+    font-size: 16px;
+    margin: 10px;
+    color: #333;
+}
+.listRight .specialStyle{
+    font-size: 16px;
+    color: rgb(255, 0, 0);
+    font-weight: 900;
+}

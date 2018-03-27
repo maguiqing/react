@@ -1,0 +1,54 @@
+.logo{
+	width: 140px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.items{
+	line-height: 36px !important;
+}
+.Rstyle{
+	text-align: center;
+	font-size: 13px;
+	border: 1px solid #FFE9D3;
+	margin-top: 10px;
+}
+.Cstyle{
+	border-right: 1px solid #FFE9D3;
+}
+.Rstyle h2{
+	border-bottom: 1px solid #FFE9D3;
+    background: #fdf4e5;
+    height: 26px;
+    line-height: 26px;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    color: #666;
+}
+.Bor0{
+	border-right: 0;
+}
+.sameEnglish{
+	background: #fff;
+    height: 82px;
+    font-size: 12px;
+}
+.sameEnglish li{
+    text-align: center;
+    height: 26px;
+    line-height: 26px;
+    float: left;
+    cursor: pointer;
+}
+.sameEnglish li:hover{
+	color:orange;
+}
+ .normalEnglish li{
+	width:100%;
+}
+.slowEnglish li{
+	width:20%;
+}
+.teacherEnglish li{
+	width:20%;
+} 
